@@ -16,15 +16,15 @@
 
 
 
-$lang['admin_login'] = 			'LOGIN DI AMMINISTRATORE';
+$lang['admin_login'] = 			'Login Amministratore';
 
-$lang['agent_login'] = 			'Agente Accesso';
+$lang['agent_login'] = 			'Accesso Agenti';
 
-$lang['agent_password'] = 		'Agente della password';
+$lang['agent_password'] = 		'Password Agenti';
 
-$lang['phone_login'] = 			'Telefono Accesso';
+$lang['phone_login'] = 			'Interno';
 
-$lang['phone_password'] = 		'Telefono della password';
+$lang['phone_password'] = 		'Password Interno';
 
 $lang['campaign'] = 			'Campagna';
 
@@ -34,15 +34,15 @@ $lang['password'] = 			'Password';
 
 $lang['re_login'] = 			'Re-Login';
 
-$lang['logout'] = 			'LOGOUT';
+$lang['logout'] = 			'Logout';
 
 $lang['timeclock'] = 			'Timeclock';
 
-$lang['refresh_campaign_list'] = 	'Aggiorna elenco della campagna.';
+$lang['refresh_campaign_list'] = 	'Aggiorna elenco campagna.';
 
-$lang['agent_web_client'] = 		'Agente client web';
+$lang['agent_web_client'] = 		'Web Client Agente';
 
-$lang['agent_screen'] = 		'Agente schermo';
+$lang['agent_screen'] = 		'Schermata Agente';
 
 $lang['version'] = 			'versione';
 
@@ -54,13 +54,13 @@ $lang['extension'] = 			'Estensione';
 
 $lang['hello'] = 			'Ciao';
 
-$lang['web_phone'] = 			'Telefono Web';
+$lang['web_phone'] = 			'Interno';
 
 $lang['agents'] = 			'AGENTI';
 
-$lang['available_agents_transfer'] = 	'Agenti Disponibili Transfer';
+$lang['available_agents_transfer'] = 	'Agenti Disponibili per trasferimento';
 
-$lang['lead_dispositioned_as'] = 	'Piombo disporre gli Come';
+$lang['lead_dispositioned_as'] = 	'Lead esitato come';
 
 $lang['disposition_hot_keys'] = 	'Disposizione Tasti di scelta rapida';
 
